@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">SUBZERO-MD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">Nalian-Ak</h1>
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ Dont forget to fork & star repo
 </div>
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="[https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>](https://files.catbox.moe/o75ke6.jpg)
 </div>
 
 ## 🧑‍💻 PROJECT ARCHITECTS
